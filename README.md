@@ -15,6 +15,6 @@ npm install hexo-deployer-git --save （需要在博客目录执行）
 发布
 hexo clean && hexo g && hexo d
 ```
-
-- 2、clone下来后取hexo-blog-backup 目录中的blog整个目录
-- 3、拷出后需要在blog目录执行npm install hexo-deployer-git  --save安装发布git
+- 2、创建blog目录 如： hexo init blog
+- 3、clone下来后取hexo-blog-backup目录中的工程配置文件，和主题目录替换刚创建的blog中的相应的文件
+- 4、然后在blog目录执行npm install hexo-deployer-git  --save安装发布git
