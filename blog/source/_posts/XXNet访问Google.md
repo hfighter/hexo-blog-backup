@@ -1,6 +1,7 @@
 ---
 title: XX-Net 是在国内能够访问Google的一种方式
 tags: [工具, 技巧, 翻墙]
+date: 2017-07-11
 categories: 工具
 ---
 
